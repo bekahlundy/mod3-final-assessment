@@ -1,0 +1,23 @@
+body {
+  font-family: 'Coming Soon', cursive;
+  background-color: aliceblue;
+  margin-left: 20px;
+}
+
+.submit-btn {
+  background-color: #CFA7FB;
+  border: none;
+  border-radius: 5px;
+  height: 25px;
+  font-family: 'Coming Soon', cursive;
+  margin: 20px 40px;
+  width: 60px;
+    &:hover {
+      background-color: #624089;
+      color: white;
+    }
+}
+
+.answers {
+  margin-left: 40px;
+}
