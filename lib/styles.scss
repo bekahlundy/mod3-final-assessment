@@ -1,7 +1,7 @@
 body {
   font-family: 'Coming Soon', cursive;
   background-color: aliceblue;
-  margin-left: 20px;
+  margin-left: 30px;
 }
 
 .submit-btn {
@@ -10,7 +10,7 @@ body {
   border-radius: 5px;
   height: 25px;
   font-family: 'Coming Soon', cursive;
-  margin: 20px 40px;
+  margin: 30px 40px;
   width: 60px;
     &:hover {
       background-color: #624089;
@@ -20,4 +20,8 @@ body {
 
 .answers {
   margin-left: 40px;
+}
+
+.indv-quiz-container {
+  margin: 20px 0;
 }
